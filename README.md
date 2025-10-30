@@ -19,7 +19,10 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ``` javascript
 var myVar = "Hello, world!";
-``` 
+```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
