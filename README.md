@@ -7,6 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
+
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
